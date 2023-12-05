@@ -1,7 +1,13 @@
 # :wave: The Basics of GitHub 
 
+
 Editted after Git: Clone to my local computer using VS Code. 
-- To clone: I opened the Command Pallette by "Ctrl+Shift+P" and selected "Git: Clone". 
+- To clone: I opened the Command Pallette by "Ctrl+Shift+P", selected "Git: Clone", and selected the repositories listed on my GitHub account. 
+- To commit: I clicked the "+" sign of the "M" modified file to commit, and click the "Commit" button.
+  - It asked to configure the user.name and user.email to use Git command. As Git was installed, I typed "git config --global user.name 'spiritus01' user.email 'kangseung@umkc.edu."  It is a one-time configuration. 
+  - Then, the VS codde fetched the git command to commit and push to the "origin/main" branch.  
+
+
 
 ## 🤓 Course overview and learning outcomes 
 
